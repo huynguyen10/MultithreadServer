@@ -1,6 +1,5 @@
-# MultithreadServer
-    Multi-thread socket server
+# Client-Server Socket
+    Java Socket Client
+    Multi-thread socket server (Java, C++)
     Echo message from client
     Connection lost detection
-# Compile
-    g++ multithread_server.cpp -lpthread -o multithread_server
