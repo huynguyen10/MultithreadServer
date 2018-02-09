@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Socket Client</string>
+    <string name="lab_addr">xxx.xxx.xxx.xxx</string>
+    <string name="home_addr">192.168.0.100</string>
+</resources>
